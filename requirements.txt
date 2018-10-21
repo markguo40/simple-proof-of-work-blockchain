@@ -1,0 +1,4 @@
+Django==2.1.2
+pyasn1==0.4.4
+pycryptodome==3.6.6
+pytz==2018.5
